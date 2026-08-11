@@ -1,69 +1,82 @@
 # 🎭 GSAP & Animation Lab
 
-A collection of modern web animation experiments built with **GSAP**, **Vanilla JavaScript**, **React**, and **Next.js**. This repository showcases interactive UI effects, smooth page transitions, scroll-based animations, and advanced motion design techniques.
+A collection of modern web animation experiments built with **GSAP**, **Vanilla JavaScript**, **React**, and **Next.js**. This repository showcases interactive UI effects, smooth page transitions, scroll-driven animations, and advanced motion design techniques while exploring real-world animation workflows.
+
+---
+
+## 🚀 Live Demos
+
+| Project | Live Demo |
+|---------|-----------|
+| 🏢 Agency Website | https://agency-website-k72.vercel.app |
+| 🔄 SVG Page Transition | https://svg-page-transition-sp.vercel.app |
+| ✨ Text Animation | https://text-animation-sp.vercel.app |
+| 🚀 Animated Landing Page | https://animated-landing-page-sp.vercel.app |
+| 🖱️ Cursor Image Effect | https://cursor-image-effect.vercel.app |
+| 📱 Navbar Animation | https://navbar-animation-sp.vercel.app |
+
+---
 
 ## ✨ Features
 
-- Smooth GSAP animations
-- ScrollTrigger effects
-- SVG path animations
-- Interactive cursor effects
-- Page transition animations
-- Responsive animation techniques
+- 🎬 Smooth GSAP animations
+- 📜 ScrollTrigger interactions
+- 🔄 SVG page transition effects
+- 🖱️ Interactive cursor animations
+- ✨ Text reveal animations
+- 📱 Responsive motion design
+- ⚡ React & Next.js animation integration
+
+---
 
 ## 📂 Projects
 
-### 🖱️ Cursor Image Effect
-**Folder:** `cursor-image-effect`
+### 🖱️ Cursor Image Effect (`/cursor-image-effect`)
 
-- Mouse tracking animation
-- Hover scaling
+- Interactive mouse tracking
+- Image reveal on cursor movement
 - GSAP + Vanilla JavaScript
 
 ---
 
-### 🚀 Animated Landing Page
-**Folder:** `animated-landing-page`
+### 🚀 Animated Landing Page (`/animated-landing-page`)
 
 - ScrollTrigger animations
-- Hero animations
+- Hero section motion effects
 - Smooth section transitions
 
 ---
 
-### 📱 Navbar Animation
-**Folder:** `navbar-animation`
+### 📱 Navbar Animation (`/navbar-animation`)
 
-- Full-screen animated menu
+- Full-screen animated navigation
 - GSAP Timeline
-- Play / Reverse animations
+- Play & reverse animations
 
 ---
 
-### ✨ Text Animation
-**Folder:** `text-animation`
+### ✨ Text Animation (`/text-animation`)
 
-- Letter splitting
-- Stagger animations
+- Split text animations
+- Staggered character effects
 - Timeline sequencing
 
 ---
 
-### 🏢 Agency Website
-**Folder:** `agency-website`
+### 🏢 Agency Website (`/agency-website`)
 
-- React
-- @gsap/react
-- Multi-page animations
+- React + Vite
+- GSAP & @gsap/react
+- Multi-section animated landing page
+- Responsive layout
 
 ---
 
-### 🔄 SVG Page Transition
-**Folder:** `svg-page-transition`
+### 🔄 SVG Page Transition (`/svg-page-transition`)
 
 - Next.js App Router
-- SVG path animation
-- Route transitions
+- Animated route transitions
+- SVG morphing effects
 - next-transition-router
 
 ---
@@ -76,30 +89,50 @@ A collection of modern web animation experiments built with **GSAP**, **Vanilla 
 - GSAP
 - ScrollTrigger
 - React
+- Vite
 - Next.js
 
 ---
 
-## 📚 Learning Outcomes
+## 📚 What I Learned
 
-- Creating complex animation timelines with GSAP.
-- Building scroll-driven interactions using ScrollTrigger.
-- Animating SVG paths for page transitions.
-- Integrating GSAP with React and Next.js.
-- Writing reusable and maintainable animation code.
+- Building reusable GSAP timelines
+- Creating smooth scroll-based animations
+- Implementing SVG page transitions
+- Integrating GSAP with React & Next.js
+- Structuring animation-heavy applications
+- Optimizing animation performance
 
 ---
 
 ## 🚀 Getting Started
 
+Clone the repository:
+
 ```bash
 git clone https://github.com/suryaprakash-sankhla/animation-practice.git
 ```
 
-Open any project folder and install dependencies (if required).
+Navigate to any project folder:
+
+```bash
+cd project-folder
+```
+
+Install dependencies (if required):
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
 
 ---
 
-## 📸 Preview
+## 🎯 Purpose
 
-> Screenshots and GIF demonstrations will be added soon.
+This repository documents my journey of learning modern web animations using **GSAP**, **React**, and **Next.js** by building hands-on projects focused on interactive user experiences and smooth motion design.
