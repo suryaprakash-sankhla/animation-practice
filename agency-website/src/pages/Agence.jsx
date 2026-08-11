@@ -10,20 +10,20 @@ const Agence = () => {
   const imageRef = useRef(null);
 
   const imageArray = [
-    '../public/images/1.jpg',
-    '../public/images/2.jpg',
-    '../public/images/3.jpg',
-    '../public/images/4.jpg',
-    '../public/images/5.jpg',
-    '../public/images/6.jpg',
-    '../public/images/7.jpg',
-    '../public/images/8.jpg',
-    '../public/images/9.jpg',
-    '../public/images/10.jpg',
-    '../public/images/11.jpg',
-    '../public/images/12.jpg',
-    '../public/images/13.jpg',
-    '../public/images/14.jpg',
+    '/images/1.jpg',
+    '/images/2.jpg',
+    '/images/3.jpg',
+    '/images/4.jpg',
+    '/images/5.jpg',
+    '/images/6.jpg',
+    '/images/7.jpg',
+    '/images/8.jpg',
+    '/images/9.jpg',
+    '/images/10.jpg',
+    '/images/11.jpg',
+    '/images/12.jpg',
+    '/images/13.jpg',
+    '/images/14.jpg',
 
   ]
 
